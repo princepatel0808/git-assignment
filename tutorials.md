@@ -50,5 +50,6 @@ Overall, it was a great experience to use such software to learn Git.
 
 
 I am Rayan Mohammed, the tutorial assigned to me was "Learn Git Branching" 
-This tutorial was highly helpful in understanding Git branching, the tutorials had in-built play functions so that i could try some hands-on on it.
+This tutorial was highly helpful in understanding Git branching, the tutorials had in-built play functions so that i could try some hands-on on it. 
+This tutorial is squentially set up in 4 steps. In every step you will learn ins and outs of git commits, tips etc. The hands-on exercise is quite user friendly and anybody without a coding background can do it. The only issue i faced was that the tutorial website UI does not allow us to see the content while doing a task, this makes it difficult as we cannot refer to the content to solve the task. 
 
