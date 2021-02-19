@@ -48,6 +48,7 @@ The tutorial assigned to me was to tryGit challenges(1-25). These challenges see
 
 Overall, it was a great experience to use such software to learn Git.
 
+<<<<<<< HEAD
 
 I am Rayan Mohammed, the tutorial assigned to me was "Learn Git Branching" This tutorial was highly helpful in understanding Git branching, the tutorials had in-built play functions so that i could try some hands-on on it. This tutorial is squentially set up in 4 steps. In every step you will learn ins and outs of git commits, tips etc. The hands-on exercise is quite user friendly and anybody without a coding background can do it. The only issue i faced was that the tutorial website UI does not allow us to see the content while doing a task, this makes it difficult as we cannot refer to the content to solve the task.
 
@@ -66,8 +67,11 @@ I have just completed "trygit" tutorial. as it was the first time that I was acc
 
 learning  and setting up git & github with the instruction provided in the assignment made it easy to learn. I learned how to perform cloning the existing repository and make a branch in which I can edit file to the server.  
 
+=======
+Hi, I am Harshilkumar Mayurbhai Patel
+It was a good experience to learn about GitHub. As it was first time but Implementation of Repository and gain access to it was nice way to Learn. Even, single command tell us all the change made in repository by online or offline mode.
+>>>>>>> hmp
 
-I am Prince Patel
 I was assigned "tryGit" challenges. Mainly into two dofferent parts with instructions and implementation on the other part. Given information lead towards the solution, Initially to complete the given tasks i created a repository in my account.
 It was also very helpful to workout with Git through graphical representation and working of Command line arguments.
 
