@@ -66,3 +66,8 @@ I have just completed "trygit" tutorial. as it was the first time that I was acc
 
 learning  and setting up git & github with the instruction provided in the assignment made it easy to learn. I learned how to perform cloning the existing repository and make a branch in which I can edit file to the server.  
 
+
+I am Prince Patel
+I was assigned "tryGit" challenges. Mainly into two dofferent parts with instructions and implementation on the other part. Given information lead towards the solution, Initially to complete the given tasks i created a repository in my account.
+It was also very helpful to workout with Git through graphical representation and working of Command line arguments.
+
